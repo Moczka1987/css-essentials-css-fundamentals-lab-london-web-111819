@@ -28,6 +28,12 @@ figcaption {
   float: left;
 }
 
+#details div {
+  float: left;
+  color: red;
+}
+
+
 
 
 
