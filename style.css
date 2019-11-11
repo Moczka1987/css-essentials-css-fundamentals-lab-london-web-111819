@@ -23,5 +23,10 @@ figcaption {
   max-width: 800px
 }
 
+#details {
+  display: block;
+  float: left;
+}
 
+}
 
